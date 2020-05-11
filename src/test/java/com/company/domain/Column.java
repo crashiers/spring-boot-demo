@@ -7,7 +7,7 @@ public class Column {
     private String columnType;
     // 字段注释
     private String columnComment;
-    // 对应的do下的字段属性
+    // 对应的do下的字段属性 作用 驼峰字段名
     private String doField;
 
     public String getColumnName() {
